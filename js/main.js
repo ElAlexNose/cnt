@@ -4,7 +4,7 @@ let days = document.querySelector('.days .number'),
     seconds = document.querySelector('.seconds .number'),
     //Count Down End Date
     //1000 milliseconds = 1 second
-    countDownDate = new Date("Feb 21, 2025 17:30:00").getTime();
+    countDownDate = new Date("Feb 7, 2025 17:30:00").getTime();
 
 let counter = setInterval(() => {
     //Get Date Now
